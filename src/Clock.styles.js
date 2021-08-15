@@ -11,7 +11,7 @@ background-color: red;
 export const Centered = styled.p`
 justify-content: center;
 align-items: center;
-font-size: 2rem;
+font-size: 1.8rem;
 font-weight: bold;
 font-family: 'Dosis', sans-serif;
 -webkit-transform: scaleX(-1);
