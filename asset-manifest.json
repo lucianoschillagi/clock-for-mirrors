@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/clock-for-mirrors/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/clock-for-mirrors/static/js/main.4c78da82.chunk.js",
-    "main.js.map": "/clock-for-mirrors/static/js/main.4c78da82.chunk.js.map",
+    "main.js": "/clock-for-mirrors/static/js/main.1e734933.chunk.js",
+    "main.js.map": "/clock-for-mirrors/static/js/main.1e734933.chunk.js.map",
     "runtime-main.js": "/clock-for-mirrors/static/js/runtime-main.181e6a0e.js",
     "runtime-main.js.map": "/clock-for-mirrors/static/js/runtime-main.181e6a0e.js.map",
     "static/js/2.0d9a9758.chunk.js": "/clock-for-mirrors/static/js/2.0d9a9758.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.181e6a0e.js",
     "static/js/2.0d9a9758.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.4c78da82.chunk.js"
+    "static/js/main.1e734933.chunk.js"
   ]
 }
